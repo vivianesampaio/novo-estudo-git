@@ -1,3 +1,5 @@
 1. criar repositório local 
 2. subir repositório no git hub
 3. nova alteração
+4. novas tarefas
+5. nova branch
